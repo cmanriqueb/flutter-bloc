@@ -9,3 +9,4 @@ Revisar Geolocator plugin, en caso de tener cambios en la instalación
 [GeoLocator Package](https://pub.dev/packages/geolocator)
 
 
+# flutter-bloc
